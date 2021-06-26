@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=iJKCj8uAHz8
 2. BOOTSTRAP 5
 3. FONTAWESOME
 4. AUTOPREFIXER
+## The Changes made at initial level when the code is uploaded to git 
 
-HOW TO START A PROJECT
+## HOW TO initiate A PROJECT
 
